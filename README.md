@@ -1,30 +1,39 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="wave">
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/master/GIFs/Waving-Hand.gif" width="30px" alt="wave">
   <h1>Hi there, I'm Sarvesh Kumar Shukla</h1>
   <p><strong>Robotics & Physical AI Engineer | Applied AI & ML Developer | STEM Educator</strong></p>
   <p><em>Bridging intelligent software architectures, physical hardware controllers, and generative AI systems.</em></p>
-</div>
 
-<p align="center">
-  <a href="mailto:princeshukla2720@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://linkedin.com/in/prince-shukla-2720" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/Prince2720" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
+  <p>
+    <a href="mailto:princeshukla2720@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://www.linkedin.com/in/prince-shukla-2720" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://github.com/Prince2720" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+  </p>
+
+  <img src="https://komarev.com/ghpvc/?username=Prince2720&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+</div>
 
 ---
 
 ### 🌐 Quick Contact & Location
 - 📍 **Location:** Hyderabad, Telangana, India
 - ✉️ **Email:** [princeshukla2720@gmail.com](mailto:princeshukla2720@gmail.com)
-- 💼 **LinkedIn:** [linkedin.com/in/prince-shukla-2720](https://linkedin.com/in/prince-shukla-2720)
+- 💼 **LinkedIn:** [linkedin.com/in/prince-shukla-2720](https://www.linkedin.com/in/prince-shukla-2720)
 - 🐙 **GitHub:** [@Prince2720](https://github.com/Prince2720)
 - 💬 **Ask me about:** Physical AI, ESP32/Robotics prototyping, LangChain RAG pipelines, and Python full-stack tooling.
+
+---
+
+### ⚡ Currently Building & Exploring
+- 🛡️ **VulnGuard-AI**: Autonomous software vulnerability checker agent using SAST tools and LLM orchestration.
+- 🔒 **EnterpriseAI Compliance Guardrails**: Engineering compliance guardrail agents with firewall tools and layer ablation studies.
+- 🕹️ **TouchForge**: Serial-to-mouse tilt controller mapping MPU6050 6-axis IMU angles directly into cursor coordinates.
 
 ---
 
@@ -75,7 +84,7 @@
 
 ---
 
-### 📊 GitHub Activity
+### 📈 Activity & Contributions
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Prince2720&show_icons=true&theme=tokyonight&hide_border=true" alt="Prince's GitHub stats" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prince2720&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Prince's Activity Graph" />
 </p>
