@@ -30,9 +30,10 @@
 ---
 
 ### ⚡ Currently Building & Exploring
-- 🛡️ **VulnGuard-AI**: Autonomous software vulnerability checker agent using SAST tools and LLM orchestration.
-- 🔒 **EnterpriseAI Compliance Guardrails**: Engineering compliance guardrail agents with firewall tools and layer ablation studies.
-- 🕹️ **TouchForge**: Serial-to-mouse tilt controller mapping MPU6050 6-axis IMU angles directly into cursor coordinates.
+- 🛡️ **Trustnex AI**: Building the AI trust layer—developing an AI Firewall & Guardrail platform for LLM applications, prompt injection/jailbreak protection, and secure RAG infrastructure.
+- 🛡️ **VulnGuard-AI**: Autonomous software vulnerability checker agent using Static Application Security Testing (SAST) and LLM orchestration.
+- 🔒 **EnterpriseAI Compliance Guardrails**: Developing compliance guardrail agents with custom firewall tools and layer ablation evaluations.nex AI
+- ⚖️ **Chartered Accountant & CS Advisory Agent**: Autonomous advisory assistant structuring tax and statutory compliance guidance.
 
 ---
 
