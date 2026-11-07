@@ -23,7 +23,7 @@
 ### 🌐 Quick Contact & Location
 - 📍 **Location:** Hyderabad, Telangana, India
 - ✉️ **Email:** [princeshukla2720@gmail.com](mailto:princeshukla2720@gmail.com)
-- 💼 **LinkedIn:** [linkedin.com/in/prince-shukla-2720](https://linkedin.com/in/prince-shukla-2720)
+- 💼 **LinkedIn:** [linkedin.com/in/sarvesh-kumar-shukla-ai](https://www.linkedin.com/in/sarvesh-kumar-shukla-ai/)
 - 🐙 **GitHub:** [@Prince2720](https://github.com/Prince2720)
 - 💬 **Ask me about:** Physical AI, ESP32/Robotics prototyping, LangChain RAG pipelines, and Python full-stack tooling.
 
