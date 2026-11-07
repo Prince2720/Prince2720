@@ -1,14 +1,13 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/master/GIFs/Waving-Hand.gif" width="30px" alt="wave">
-  <h1>Hi there, I'm Sarvesh Kumar Shukla</h1>
-  <p><strong>Robotics & Physical AI Engineer | Applied AI & ML Developer | STEM Educator</strong></p>
-  <p><em>Bridging intelligent software architectures, physical hardware controllers, and generative AI systems.</em></p>
+  <h1>Hi there, I'm Sarvesh Kumar Shukla <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="34px" alt="wave"></h1>
+  <p><strong>🤖 Robotics & Physical AI Engineer | 🧠 Applied AI & ML Developer | 🎓 STEM Educator</strong></p>
+  <p><em>⚡ Bridging intelligent software architectures, physical hardware controllers, and generative AI systems.</em></p>
 
   <p>
     <a href="mailto:princeshukla2720@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
-    <a href="https://www.linkedin.com/in/prince-shukla-2720" target="_blank">
+    <a href="https://linkedin.com/in/prince-shukla-2720" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="https://github.com/Prince2720" target="_blank">
@@ -24,7 +23,7 @@
 ### 🌐 Quick Contact & Location
 - 📍 **Location:** Hyderabad, Telangana, India
 - ✉️ **Email:** [princeshukla2720@gmail.com](mailto:princeshukla2720@gmail.com)
-- 💼 **LinkedIn:** [linkedin.com/in/prince-shukla-2720](https://www.linkedin.com/in/prince-shukla-2720)
+- 💼 **LinkedIn:** [linkedin.com/in/prince-shukla-2720](https://linkedin.com/in/prince-shukla-2720)
 - 🐙 **GitHub:** [@Prince2720](https://github.com/Prince2720)
 - 💬 **Ask me about:** Physical AI, ESP32/Robotics prototyping, LangChain RAG pipelines, and Python full-stack tooling.
 
