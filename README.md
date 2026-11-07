@@ -1,46 +1,81 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/master/GIFs/Waving-Hand.gif" width="30px">
-  <h1 align="center">Hi there! I'm Sarvesh Kumar Shukla (<a href="https://github.com/Prince2720">@Prince2720</a>)</h1>
-  <h3>🤖 Robotics & Physical AI Engineer | AI/ML Enthusiast & Developer</h3>
-  <p>Building intelligent systems, embedded edge-AI controllers, and robust RAG applications.</p>
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="wave">
+  <h1>Hi there, I'm Sarvesh Kumar Shukla</h1>
+  <p><strong>Robotics & Physical AI Engineer | Applied AI & ML Developer | STEM Educator</strong></p>
+  <p><em>Bridging intelligent software architectures, physical hardware controllers, and generative AI systems.</em></p>
 </div>
 
----
-
-### 🚀 About Me
-- 🌱 I’m currently working as a **Robotics & Physical AI Engineer & Instructor** at **NxtWave Technologies**.
-- 💡 Passionate about integrating **Physical AI**, **Embedded Electronics (ESP32/Arduino)**, and **Large Language Models**.
-- 🛠️ Operating across Windows & Linux toolchains using **Python, FastAPI, Streamlit, Docker, and Git**.
-- 🏆 Master of Science in Computational Science and Application from **Banaras Hindu University (BHU)**.
-- 📫 Reach out to me via email at **princeshukla2720@gmail.com** or connect with me on [LinkedIn](https://www.linkedin.com/in/sarvesh-kumar-shukla/).
-
----
-
-### 💻 Tech Stack & Developer Tools
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
-</div>
+<p align="center">
+  <a href="mailto:princeshukla2720@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/prince-shukla-2720" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/Prince2720" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
 ---
 
-### 📌 Featured Projects
-- 🕹️ **[esp32-reflex-arcade](https://github.com/Prince2720/esp32-reflex-arcade)**: Embedded hardware and reflex arcade project built using C++ and ESP32.
-- 🌤️ **[weather-forecast-app](https://github.com/Prince2720/weather-forecast-app)**: AI-powered weather forecasting application providing real-time data and predictions built with Python, Streamlit, and the OpenWeatherMap API.
-- 📄 **[car-contract-ai-assistant](https://github.com/Prince2720/car-contract-ai-assistant)**: LLM-driven AI car lease contract reviewer with automated clause extraction and negotiation assistance.
-- 🏨 **[RAG-Based-Hotel-QA-System](https://github.com/Prince2720/RAG-Based-Hotel-QA-System)**: Offline document-based QA system integrating FAISS, LangChain, FastAPI, and Streamlit for semantic context retrieval.
-- 🎬 **[Movie-Recommendation-System](https://github.com/Prince2720/Movie-Recommendation-System)**: Content-based movie recommendation engine utilizing NLP and machine learning metadata analysis.
+### 🌐 Quick Contact & Location
+- 📍 **Location:** Hyderabad, Telangana, India
+- ✉️ **Email:** [princeshukla2720@gmail.com](mailto:princeshukla2720@gmail.com)
+- 💼 **LinkedIn:** [linkedin.com/in/prince-shukla-2720](https://linkedin.com/in/prince-shukla-2720)
+- 🐙 **GitHub:** [@Prince2720](https://github.com/Prince2720)
+- 💬 **Ask me about:** Physical AI, ESP32/Robotics prototyping, LangChain RAG pipelines, and Python full-stack tooling.
 
 ---
 
-### 📈 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prince2720&show_icons=true&theme=radical&hide_border=true" alt="Prince's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prince2720&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
+### 💼 Professional Experience
+- 🚀 **Robotics & Physical AI Engineer & Instructor** — *NxtWave Technologies* `(Oct 2026 – Present)`
+  - Designing hands-on curricula and engineering Physical AI architectures connecting intelligent models to physical hardware.
+- 🤖 **AI & Robotics Instructor** — *Techvein IT Solutions Pvt. Ltd.* `(Jun 2026 – Oct 2026)`
+  - Delivered practical AI and embedded robotics training, prototyping smart embedded devices.
+- 🧠 **AI/ML Intern** — *StayChat AI* `(2026)`
+  - Engineered production Retrieval-Augmented Generation (RAG) pipelines using LangChain, ChromaDB, and vector embeddings.
+- 🔍 **AI/ML Virtual Intern** — *Infosys Springboard* `(2026)`
+  - Developed an automated contract clause extraction & negotiation assistant for loan and lease agreements.
+- 🔬 **Research Intern** — *Madan Mohan Malaviya University of Technology (MMMUT)* `(2026)`
+  - Researched predictive machine learning models in Python and TensorFlow for real-world data patterns.
+
+---
+
+### 🎓 Education & Certifications
+- 🎓 **M.Sc. in Computational Science and Applications** — *Banaras Hindu University (BHU)* `(2024 – 2026)`
+  - **CGPA:** 8.59 / 10 | Served as Student Training & Placement Representative (TPR)
+- 🎓 **B.Sc.** — *University of Allahabad* `(2021 – 2023)`
+  - **CGPA:** 7.8 / 10
+- 📜 **Certifications:**
+  - Machine Learning Certification — *SWAYAM BHU*
+  - Introduction to Large Language Models — *IIT Delhi & IIT Bombay*
+  - Fly Scholar Programme — *CMI-USA*
+
+---
+
+### 🛠️ Tech Stack & Tooling
+
+| Domain | Technologies & Frameworks |
+| :--- | :--- |
+| **Languages** | Python, C++, SQL, Bash, HTML/CSS |
+| **AI / Machine Learning** | LangChain, FAISS, ChromaDB, TensorFlow, Scikit-Learn, Hugging Face |
+| **Backend & Web** | FastAPI, Streamlit, REST APIs |
+| **Robotics & Embedded** | ESP32, Arduino Nano, MPU6050 IMU, Strawtronics, PySerial, PyAutoGUI |
+| **DevOps & Platforms** | Git, GitHub, Docker, Railway, Linux, VS Code |
+
+---
+
+### 📌 Featured Repositories & Work
+- 🕹️ **[esp32-reflex-arcade](https://github.com/Prince2720/esp32-reflex-arcade)**: Embedded hardware reflex arcade machine using C++ and ESP32 with precision timing.
+- 📄 **[car-contract-ai-assistant](https://github.com/Prince2720/car-contract-ai-assistant)**: Intelligent contract reviewer automating clause extraction, legal risk scoring, and negotiation assistance.
+- 🏨 **[RAG-Based-Hotel-QA-System](https://github.com/Prince2720/RAG-Based-Hotel-QA-System)**: Document intelligence engine combining FAISS, LangChain, FastAPI, and Streamlit for grounded Q&A.
+- 🌤️ **[weather-forecast-app](https://github.com/Prince2720/weather-forecast-app)**: Interactive weather prediction web application with real-time API integrations.
+- 🎬 **[Movie-Recommendation-System](https://github.com/Prince2720/Movie-Recommendation-System)**: NLP-driven content recommendation engine analyzing metadata and viewer affinity.
+
+---
+
+### 📊 GitHub Activity
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Prince2720&show_icons=true&theme=tokyonight&hide_border=true" alt="Prince's GitHub stats" />
+</p>
