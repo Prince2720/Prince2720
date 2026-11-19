@@ -32,7 +32,6 @@
 ### ⚡ Currently Building & Exploring
 - 🛡️ **Trustnex AI**: Building the AI trust layer—developing an AI Firewall & Guardrail platform for LLM applications, prompt injection/jailbreak protection, and secure RAG infrastructure.
 - 🛡️ **VulnGuard-AI**: Autonomous software vulnerability checker agent using Static Application Security Testing (SAST) and LLM orchestration.
-- 🔒 **EnterpriseAI Compliance Guardrails**: Developing compliance guardrail agents with custom firewall tools and layer ablation evaluations.nex AI
 - ⚖️ **Chartered Accountant & CS Advisory Agent**: Autonomous advisory assistant structuring tax and statutory compliance guidance.
 
 ---
@@ -76,6 +75,7 @@
 ---
 
 ### 📌 Featured Repositories & Work
+- 🔒 **[EnterpriseAI Compliance Guardrails](https://github.com/Prince2720/guardrail-agents)**: Developed compliance guardrail agents with custom firewall tools and layer ablation evaluations.
 - 🕹️ **[esp32-reflex-arcade](https://github.com/Prince2720/esp32-reflex-arcade)**: Embedded hardware reflex arcade machine using C++ and ESP32 with precision timing.
 - 📄 **[car-contract-ai-assistant](https://github.com/Prince2720/car-contract-ai-assistant)**: Intelligent contract reviewer automating clause extraction, legal risk scoring, and negotiation assistance.
 - 🏨 **[RAG-Based-Hotel-QA-System](https://github.com/Prince2720/RAG-Based-Hotel-QA-System)**: Document intelligence engine combining FAISS, LangChain, FastAPI, and Streamlit for grounded Q&A.
